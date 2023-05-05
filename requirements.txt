@@ -4,5 +4,6 @@
 3.Pandas  
 4.Numpy
 5.Matplotlib
+6.Gunicorn
 
 #pip install -r  requirements.txt 
